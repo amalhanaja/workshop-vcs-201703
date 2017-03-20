@@ -1,2 +1,5 @@
 INI FILE, FILE SOPO
 IKI FILE SEK TAS NGGAWE
+
+
+Iki sek tas digawe
